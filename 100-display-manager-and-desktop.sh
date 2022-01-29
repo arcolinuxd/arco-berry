@@ -55,7 +55,7 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-berry-git
+berry-dev-git
 sxhkd
 dmenu
 feh
